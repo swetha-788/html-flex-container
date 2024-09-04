@@ -2,7 +2,7 @@
 
 .favourite-places-bg-container {
   background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
-  height: 147;
+  height: 149;
   
   background-size: cover;
   margin:10px;
@@ -38,6 +38,6 @@
 }
 
 .favourite-place-card-image {
-  width: 180px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
